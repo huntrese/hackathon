@@ -1,0 +1,70 @@
+[
+    {
+        "title": "Dell Latitude i5/8GB/128GB/Livrare/Garantie!",
+        "price": "to provide the most accurate conversion, i first need to know the currency that 3,300 lei is in, as \"lei\" is the currency of moldova. if you provide the original currency, i can give you the equivalent in moldavian lei (mdl).",
+        "features": {
+            "Tip ofert\u0103": "V\u00e2nd",
+            "Produc\u0103tor": "Dell",
+            "Tip": "Notebook",
+            "Tip procesor": "Intel Core i5",
+            "Dimensiune ecran": "14 inch - 14.9 inch",
+            "Rezolu\u021bie": "1366x768 px",
+            "Stare": "Uzat",
+            "Memorie RAM": "8 Gb",
+            "Tip adaptor video": "\u00cencorporat",
+            "Vitez\u0103 procesor": "2 400   MHz",
+            "Tip hdd": "SSD",
+            "Capacitate hdd": "128 Gb",
+            "Sistem de operare": "Windows",
+            "Greutate": "2   kg"
+        },
+        "ratings": {
+            "gaming": 0.4,
+            "work": 0.7,
+            "casual": 0.8,
+            "school": 0.9,
+            "storage size": 0.6,
+            "battery life": 0.5,
+            "ethernet port": 1,
+            "hdmi port": 1,
+            "screen resolution": 0.4,
+            "keyboard backlight": 0,
+            "weight": 0.7,
+            "price": 0.3
+        }
+    },
+    {
+        "title": "Hp Probook 650 G8/ Core I5 1145G7/ 16Gb Ram/ Iris Xe/ 500Gb SSD/ 15.6 inch FHD IPS!!",
+        "price": "as of the current exchange rate (1 eur = 20.43 mdl), the converted amount is:14812",
+        "features": {
+            "Tip ofert\u0103": "V\u00e2nd",
+            "Produc\u0103tor": "HP",
+            "Tip": "Ultrabook",
+            "Tip procesor": "Intel Core i5",
+            "Dimensiune ecran": "15 inch - 15.9 inch",
+            "Rezolu\u021bie": "1920x1080 px",
+            "Stare": "Uzat",
+            "Memorie RAM": "16 - 24 Gb",
+            "Tip adaptor video": "\u00cencorporat",
+            "Vitez\u0103 procesor": "4 700   MHz",
+            "Tip hdd": "SSD",
+            "Capacitate hdd": "500 Gb",
+            "Sistem de operare": "Windows",
+            "Greutate": "2   kg"
+        },
+        "ratings": {
+            "gaming": 0.7,
+            "work": 0.9,
+            "casual": 0.8,
+            "school": 0.8,
+            "storage_size": 0.8,
+            "battery_life": 0.6,
+            "ethernet_port": 1,
+            "hdm_port": 1,
+            "screen_resolution": 0.9,
+            "keyboard_backlight": 0.8,
+            "weight": 0.7,
+            "price": 0.4
+        }
+    }
+]
